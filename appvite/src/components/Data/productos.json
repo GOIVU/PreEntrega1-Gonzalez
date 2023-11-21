@@ -1,0 +1,72 @@
+[
+    {
+    "categoria": "categoria 1",
+    "talle": "talle 1",
+    "color": "color 1",
+    "precio": 94,
+    "id": "1"
+    },
+    {
+    "categoria": "categoria 2",
+    "talle": "talle 2",
+    "color": "color 2",
+    "precio": 9,
+    "id": "2"
+    },
+    {
+    "categoria": "categoria 3",
+    "talle": "talle 3",
+    "color": "color 3",
+    "precio": 75,
+    "id": "3"
+    },
+    {
+    "categoria": "categoria 4",
+    "talle": "talle 4",
+    "color": "color 4",
+    "precio": 98,
+    "id": "4"
+    },
+    {
+    "categoria": "categoria 5",
+    "talle": "talle 5",
+    "color": "color 5",
+    "precio": 6,
+    "id": "5"
+    },
+    {
+    "categoria": "categoria 6",
+    "talle": "talle 6",
+    "color": "color 6",
+    "precio": 32,
+    "id": "6"
+    },
+    {
+    "categoria": "categoria 7",
+    "talle": "talle 7",
+    "color": "color 7",
+    "precio": 67,
+    "id": "7"
+    },
+    {
+    "categoria": "categoria 8",
+    "talle": "talle 8",
+    "color": "color 8",
+    "precio": 76,
+    "id": "8"
+    },
+    {
+    "categoria": "categoria 9",
+    "talle": "talle 9",
+    "color": "color 9",
+    "precio": 16,
+"id": "9"
+    },
+    {
+    "categoria": "categoria 10",
+    "talle": "talle 10",
+    "color": "color 10",
+    "precio": 90,
+    "id": "10"
+    }
+]

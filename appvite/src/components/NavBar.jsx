@@ -1,5 +1,12 @@
 import { ItemListContainer } from "./ItemListContainer"
 
+import  { producto} from "./Data/productos.json" 
+
+const categories = producto.map(item => item.categories);
+const uniqueCategories = new Set (categories);
+
+console.log(...uniqueCategories)
+
 export const NavBar = () => {
 
     return (
