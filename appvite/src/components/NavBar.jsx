@@ -1,6 +1,12 @@
 import { ItemListContainer } from "./ItemListContainer"
 
-import  { producto} from "./Data/productos.json" 
+//import  { producto} from "./Data/productos.json" 
+
+// En algún lugar de tu código
+const response = await fetch('/src/components/Data/productos.json');
+const producto = await response.json();
+// Ahora, `data` contiene los datos del archivo JSON y puedes usarlos según sea necesario.
+
 
 const categories = producto.map(item => item.categories);
 const uniqueCategories = new Set (categories);
